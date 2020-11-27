@@ -8,7 +8,7 @@
           <el-breadcrumb-item>素材管理</el-breadcrumb-item>
         </el-breadcrumb>
         <!-- /面包屑路径导航 -->
-        <!-- <el-button style="float: right; padding: 3px 0" type="text">操作按钮</el-button> -->
+        <!-- <el-button style="float: right; padding: 3px 0"   type="text">操作按钮</el-button> -->
       </div>
       <!-- 图片列表 -->
       <image-list />
