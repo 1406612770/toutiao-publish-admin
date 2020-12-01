@@ -23,7 +23,6 @@
           <el-tiptap
             v-model="article.content"
             :extensions="extensions"
-            lang="zh"
             height="350"
             placeholder="请输入文章内容"
           ></el-tiptap>
